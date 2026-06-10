@@ -82,5 +82,6 @@ async def feedback_endpoint(req: FeedbackRequest):
         return {"status": "error", "message": str(e)}
 
 if __name__ == "__main__":
-    print("Starting Uvicorn Server on http://127.0.0.1:8000")
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+    port = int(os.environ.get("PORT", 7860))
+    print(f"Starting Uvicorn Server on http://0.0.0.0:{port}")
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
