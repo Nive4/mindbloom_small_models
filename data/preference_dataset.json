@@ -1,0 +1,121 @@
+[
+    {
+        "timestamp": "2026-03-20T09:10:10.698550",
+        "emotion": "Anxiety",
+        "prompt": "User Emotion: Anxiety\nUser Input: I have a big test tomorrow and I'm freaking out.\nResponse:",
+        "chosen": "It sounds like you're feeling very overwhelmed about your test. It's completely normal to feel this way before a big event. What's one small thing you can review tonight to feel a bit more prepared?",
+        "rejected": "You should just study harder and stop worrying. Worrying does nothing."
+    },
+    {
+        "timestamp": "2026-03-20T13:37:34.297743",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: hey i feel so tired also i feel like why im living in the earth\\nResponse:",
+        "chosen": " Make this response more empathetic and supportive: I understand that this might be a distressing situation. It's important to listen to your body. It might be distressing, it might be difficult to hear from your body, it's OK. I understand this is distressing and I'm sorry, it may be difficult for you to hear this .",
+        "rejected": "You should just not feel that way."
+    },
+    {
+        "timestamp": "2026-03-20T13:41:12.219348",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: im sad because of my exam. didnt study well proper for my exam tooo\\nResponse:",
+        "chosen": "First, they'd acknowledge your feelings without judgment:\r\n\r\n\"It sounds like you're feeling really down right now, and that's completely understandable. Exams can carry a lot of pressure, and when we feel we haven't prepared the way we wanted to, it can bring up a mix of guilt, anxiety, and disappointment \u2014 all at once.\"\r\n\r\nThen, they'd gently explore your experience:\r\n\r\n\"Can you tell me a little more about what's going on inside? Is it more the fear of the result, or is it the feeling that you let yourself down?\"\r\n\r\nThey'd also normalize it:\r\n\r\n\"You know, almost everyone has been in a situation where life, distraction, or just being overwhelmed got in the way of studying. That doesn't make you lazy or a failure \u2014 it makes you human.\"\r\n\r\nThey'd then shift toward self-compassion:\r\n\r\n\"The way you're talking to yourself right now matters a lot. Would you speak this harshly to a close friend who came to you with the same situation? Probably not \u2014 so try offering yourself that same kindness.\"\r\n\r\nFinally, they'd focus on what's actionable:\r\n\r\n\"Whatever the outcome, it's one exam \u2014 not a verdict on your intelligence or your future. What's one small thing you could do differently next time that feels realistic and manageable?\"",
+        "rejected": " Make this response more empathetic and supportive: I see what you're saying. You don't have to study. I see it. I don't know what I'm saying. It's not your fault. It doesn't matter. You need to know what you want to say. It matters to say yes. Don't study. You have to be supportive."
+    },
+    {
+        "timestamp": "2026-03-20T13:43:35.601430",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: im sad because of my exam. didnt study well proper for my exam tooo\\nResponse:",
+        "chosen": "I hear you, and I'm glad you're sharing this with me.\r\n\r\nIt's completely okay to feel sad right now. When we know we could have prepared better, it can feel like we've let ourselves down \u2014 and that's a really uncomfortable feeling to sit with.\r\n\r\nCan I ask \u2014 what's been going on for you lately? Sometimes when we struggle to study, there's something else underneath it... stress, distraction, feeling overwhelmed, or just being exhausted. What do you think was getting in the way for you?\r\n\r\nAnd whatever the result turns out to be \u2014 I want you to remember that this moment does not define your intelligence, your potential, or your value as a person. One exam is one chapter, not the whole story.\r\n\r\nYou reached out today, and that takes courage. Let's work through this together.\"",
+        "rejected": " Being sad does not mean you should feel bad about yourself. You are not alone. Being sad means you should not be feeling bad about you . Make this response more empathetic and supportive: I understand that you are feeling sad. Please know that you're not alone ."
+    },
+    {
+        "timestamp": "2026-03-20T13:48:55.922179",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: i want to love a girl. my girl isnt getting attracted to me shes going behind his male friend.\\nResponse:",
+        "chosen": "\"I can hear that you're hurting right now, and that pain is real and valid. Loving someone who doesn't seem to feel the same way \u2014 and watching them be close to someone else \u2014 that's one of the most difficult emotional experiences a person can go through.\r\n\r\nCan I ask you a few things gently?\r\n\r\nHow long have you had these feelings for her? And have you ever been able to express how you feel to her directly?\r\n\r\nBecause sometimes we carry these feelings silently for so long, and the weight of that silence can be exhausting.\r\n\r\nI also want you to gently consider something \u2014 we cannot control who someone is attracted to. As painful as that truth is, her feelings are hers. And your feelings are completely valid too. Neither of you is wrong here.\r\n\r\nWhat concerns me more right now is you \u2014 how are you doing inside? Are you sleeping okay? Are these thoughts taking up a lot of your mental space day to day?\r\n\r\nYou deserve love \u2014 real, mutual, wholehearted love. And sometimes the hardest but most important work is learning to redirect that love and energy back toward yourself first.\r\n\r\nYou're not less worthy because she doesn't see it yet. Sometimes the right person simply isn't in front of us yet \u2014 and that's not a reflection of your value.\r\n\r\nLet's talk about how you're really feeling beneath all of this.\"--- this has to be followed by multiple turn convo make sure you use a proper englisg grammar",
+        "rejected": " Make this response more empathetic and supportive: i understand. i want to love her. i understand her . i want her to know that i love her, i don't hate her, I want to know her . Make your response more supportive and supportive. Make your first response to this ."
+    },
+    {
+        "timestamp": "2026-03-20T13:59:27.057440",
+        "emotion": "joy",
+        "prompt": "User Emotion: joy\\nUser Input: hey,i feel very happy\\nResponse:",
+        "chosen": "That's wonderful to hear! Happiness is such a beautiful emotion, and I want you to fully embrace it today.\r\n\r\nCan you tell me \u2014 what's making you feel happy today? Was it something that happened, someone you spoke to, or did you just wake up feeling this way?\r\n\r\nI ask because it's really valuable to understand what brings us joy. When we become aware of what lifts us up, we can consciously invite more of those things into our lives.\r\n\r\nWhatever it is \u2014 hold onto this feeling today. You deserve it",
+        "rejected": "I appreciate your happiness"
+    },
+    {
+        "timestamp": "2026-03-20T13:59:54.936758",
+        "emotion": "joy",
+        "prompt": "User Emotion: joy\\nUser Input: hey i feel happy today\\nResponse:",
+        "chosen": "That's wonderful to hear! Happiness is such a beautiful emotion, and I want you to fully embrace it today.\r\n\r\nCan you tell me \u2014 what's making you feel happy today? Was it something that happened, someone you spoke to, or did you just wake up feeling this way?\r\n\r\nI ask because it's really valuable to understand what brings us joy. When we become aware of what lifts us up, we can consciously invite more of those things into our lives.\r\n\r\nWhatever it is \u2014 hold onto this feeling today. You deserve it",
+        "rejected": "hey i feel happy today"
+    },
+    {
+        "timestamp": "2026-03-20T14:00:25.654219",
+        "emotion": "joy",
+        "prompt": "User Emotion: joy\\nUser Input: i feel happy today\\nResponse:",
+        "chosen": "That's wonderful to hear! Happiness is such a beautiful emotion, and I want you to fully embrace it today.\r\n\r\nCan you tell me \u2014 what's making you feel happy today? Was it something that happened, someone you spoke to, or did you just wake up feeling this way?\r\n\r\nI ask because it's really valuable to understand what brings us joy. When we become aware of what lifts us up, we can consciously invite more of those things into our lives.\r\n\r\nWhatever it is \u2014 hold onto this feeling today. You deserve it",
+        "rejected": "I wish you were"
+    },
+    {
+        "timestamp": "2026-03-20T14:01:14.421813",
+        "emotion": "neutral",
+        "prompt": "User Emotion: neutral\\nUser Input: are you getting properly trained with the training message im sending.\\nResponse:",
+        "chosen": "speak like profesionnal",
+        "rejected": "I think you are getting it"
+    },
+    {
+        "timestamp": "2026-03-20T14:30:17.754131",
+        "emotion": "disgust",
+        "prompt": "User Emotion: disgust\\nUser Input: very bad\\nResponse:",
+        "chosen": "1. Supportive / Comforting\r\n\u201cIt sounds like today has been really tough for you. Sometimes just acknowledging that can help. You don\u2019t have to carry it alone\u2014would you like to talk through what felt hardest?\u201d\r\nFocus: validation, gentle reassurance, creating safety.\r\n\r\n2. Exploratory / Reflective\r\n\u201cYou\u2019re noticing that your day feels very bad. I wonder what specific moments stood out to you as most difficult. Exploring those can help us understand patterns and how they affect your mood.\u201d\r\nFocus: curiosity, encouraging self-awareness, guiding reflection.\r\n\r\n3. Practical Coping / Problem-Solving\r\n\u201cBad days can feel overwhelming, but often there are small steps that ease the weight. What\u2019s one thing you usually find grounding\u2014like a walk, journaling, or reaching out to someone supportive?\u201d\r\nFocus: coping strategies, empowering the person to act.\r\n\r\n4. Motivational / Strength-Based\r\n\u201cEven on very bad days, the fact that you\u2019re able to recognize and express how you feel shows resilience. What strengths have helped you through hard times before that might help today?\u201d\r\nFocus: highlighting resilience, encouraging hope and agency.",
+        "rejected": "What are your feelings about that?"
+    },
+    {
+        "timestamp": "2026-03-20T14:47:51.184801",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: hey i feel very bad today\\nResponse:",
+        "chosen": "Thank you for trusting me with that. It sounds like you are going through a really tough time right now, and I want you to know that your feelings matter. Sadness is not a weakness. It is your heart telling you that something important needs attention. You are incredibly brave for opening up about this, and I am here for you every step of the way. Sometimes just talking about what hurts can begin to ease the burden a little. What do you think has been the hardest part of what you are going through? I am listening.",
+        "rejected": "You should just not feel that way."
+    },
+    {
+        "timestamp": "2026-03-20T14:48:32.417753",
+        "emotion": "surprise",
+        "prompt": "User Emotion: surprise\\nUser Input: hey really a girl very much and she is not intersted with me she is going behind her friend who's totally not even intersted in her\\nResponse:",
+        "chosen": "That does sound surprising! Life has a way of throwing things at us that we never saw coming. It is completely okay to feel caught off guard. Taking a moment to breathe and reflect is one of the healthiest things you can do. I am here to help you process this. What was your very first thought when it happened? Understanding our initial reaction can reveal a lot about what matters most to us.",
+        "rejected": "You should just not feel that way."
+    },
+    {
+        "timestamp": "2026-03-20T14:50:00.363678",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: I feel so heartbroken when i first heard this and Stressed myslef cant sleep , cant eat cant digest\\nResponse:",
+        "chosen": "I really appreciate you sharing that with me, and I want you to know that what you are feeling is completely valid. Sadness can feel so heavy sometimes, like a weight that just will not lift, and it takes real courage to put those feelings into words. I hear you, and I want you to know that you do not have to carry this alone. It is okay to feel sad. It is one of the most human emotions there is, and it often tells us something important about what matters to us deeply. It sounds like stressed is really weighing on you. Can you tell me a little more about when this feeling started? I would love to understand what has been weighing on your heart.",
+        "rejected": "You should just not feel that way."
+    },
+    {
+        "timestamp": "2026-03-20T15:24:18.240281",
+        "emotion": "sadness",
+        "prompt": "User Emotion: sadness\\nUser Input: Every winter I find myself getting sad because of the weather. How can I fight this?\\nResponse:",
+        "chosen": "I hear everything you have shared \ud83d\ude4f and I want you to know that it takes real courage to be this honest about your pain \ud83d\udcaa You are doing better than you think \u2728 When sadness feels this heavy \ud83c\udf27\ufe0f it helps to ground yourself in the present moment. Try placing your feet flat on the floor \ud83e\uddb6 and noticing five things you can see around you \ud83d\udc40 Remind yourself: this feeling is valid, but it will pass \ud83c\udf24\ufe0f You have survived every difficult day before this one, and you will get through this too \ud83c\udf08 Be gentle with yourself today \ud83c\udf3f Eat something warm \ud83c\udf75 drink water \ud83d\udca7 rest if you can. Sometimes the bravest thing we can do is simply take care of ourselves. You are worthy of kindness \ud83d\udc9b especially from yourself. I am proud of you for being here today \ud83d\udc99",
+        "rejected": "You should just not feel that way."
+    },
+    {
+        "timestamp": "2026-03-20T16:07:10.112005",
+        "emotion": "unknown",
+        "prompt": "i failed today in my exam . i feel like i cant acheive anything in my life",
+        "chosen": "Thank you so much for sharing all of that with me \ud83d\ude4f I truly hear you, and I want you to know that you have shown incredible strength \ud83d\udcaa by opening up like this \u2728 Here is what I want you to remember: sadness is temporary \ud83c\udf24\ufe0f even when it feels like it will last forever. Your feelings are real, but they do not define your future \ud83c\udf08 One thing that can really help right now is to take things one small step at a time \ud83d\udc63 You do not need to fix everything today. Try this \ud83e\uddd8 take a slow, deep breath right now. Inhale for 4 seconds, hold for 4, and exhale for 6. Do this three times. It might also help to write down \u270d\ufe0f just one thing you are grateful for today, even something tiny like a warm cup of tea \u2615 or sunlight coming through a window \ud83c\udf05 You are not alone in this \ud83e\udd1d You reached out today, and that already shows how strong you are. I believe in you \ud83d\udc99",
+        "rejected": "Thank you so much for sharing all of that with me \ud83d\ude4f I truly hear you, and I want you to know that you have shown incredible strength \ud83d\udcaa by opening up like this \u2728 Here is what I want you to remember: sadness is temporary \ud83c\udf24\ufe0f even when it feels like it will last forever. Your feelings are real, but they do not define your future \ud83c\udf08 One thing that can really help right now is to take things one small step at a time \ud83d\udc63 You do not need to fix everything today. Try this \ud83e\uddd8 take a slow, deep breath right now. Inhale for 4 seconds, hold for 4, and exhale for 6. Do this three times. It might also help to write down \u270d\ufe0f just one thing you are grateful for today, even something tiny like a warm cup of tea \u2615 or sunlight coming through a window \ud83c\udf05 You are not alone in this \ud83e\udd1d You reached out today, and that already shows how strong you are. I believe in you \ud83d\udc99"
+    },
+    {
+        "timestamp": "2026-03-20T16:07:10.121994",
+        "emotion": "unknown",
+        "prompt": "i failed today in my exam . i feel like i cant acheive anything in my life",
+        "chosen": "Thank you so much for sharing all of that with me \ud83d\ude4f I truly hear you, and I want you to know that you have shown incredible strength \ud83d\udcaa by opening up like this \u2728 Here is what I want you to remember: sadness is temporary \ud83c\udf24\ufe0f even when it feels like it will last forever. Your feelings are real, but they do not define your future \ud83c\udf08 One thing that can really help right now is to take things one small step at a time \ud83d\udc63 You do not need to fix everything today. Try this \ud83e\uddd8 take a slow, deep breath right now. Inhale for 4 seconds, hold for 4, and exhale for 6. Do this three times. It might also help to write down \u270d\ufe0f just one thing you are grateful for today, even something tiny like a warm cup of tea \u2615 or sunlight coming through a window \ud83c\udf05 You are not alone in this \ud83e\udd1d You reached out today, and that already shows how strong you are. I believe in you \ud83d\udc99",
+        "rejected": "Thank you so much for sharing all of that with me \ud83d\ude4f I truly hear you, and I want you to know that you have shown incredible strength \ud83d\udcaa by opening up like this \u2728 Here is what I want you to remember: sadness is temporary \ud83c\udf24\ufe0f even when it feels like it will last forever. Your feelings are real, but they do not define your future \ud83c\udf08 One thing that can really help right now is to take things one small step at a time \ud83d\udc63 You do not need to fix everything today. Try this \ud83e\uddd8 take a slow, deep breath right now. Inhale for 4 seconds, hold for 4, and exhale for 6. Do this three times. It might also help to write down \u270d\ufe0f just one thing you are grateful for today, even something tiny like a warm cup of tea \u2615 or sunlight coming through a window \ud83c\udf05 You are not alone in this \ud83e\udd1d You reached out today, and that already shows how strong you are. I believe in you \ud83d\udc99"
+    },
+    {
+        "timestamp": "2026-03-20T16:33:21.436668",
+        "emotion": "unknown",
+        "prompt": "hey feeling very happy i got  centum in maths finally.",
+        "chosen": "Oh, that makes me so happy to hear! \ud83e\udd70 It is so important to celebrate our wins \ud83c\udf8a no matter how big or small they might be. Joy is a powerful emotion \ud83c\udf1f and when we pause to truly feel it, it nourishes our soul \u2728 What was the highlight of your day? \ud83d\ude0a I would love to hear more about what brought this smile to your heart \ud83d\udc9b",
+        "rejected": "Oh, that makes me so happy to hear! \ud83e\udd70 It is so important to celebrate our wins \ud83c\udf8a no matter how big or small they might be. Joy is a powerful emotion \ud83c\udf1f and when we pause to truly feel it, it nourishes our soul \u2728 What was the highlight of your day? \ud83d\ude0a I would love to hear more about what brought this smile to your heart \ud83d\udc9b"
+    }
+]
