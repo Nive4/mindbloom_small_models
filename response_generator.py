@@ -347,17 +347,18 @@ GENERIC_SOLUTION = {
 
 
 class ResponseGenerator:
-    def __init__(self, model_name="google/flan-t5-large", adapter_dir="model_output/dpo_lora"):
+    def __init__(self, model_name="google/flan-t5-base", adapter_dir="model_output/dpo_lora"):
         print(f"Loading base {model_name} for Response Personalization...")
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
         base_model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
         
-        if os.path.exists(adapter_dir):
-            print(f"🧠 FOUND TRAINED BRAIN! Loading custom weights from {adapter_dir}...")
-            self.model = PeftModel.from_pretrained(base_model, adapter_dir)
-        else:
-            print("⚠️ No trained weights found. Using base model.")
-            self.model = base_model
+        # Disable adapter loading for now to prevent OOM/scheduling failures on free tier
+        # if os.path.exists(adapter_dir):
+        #     print(f"🧠 FOUND TRAINED BRAIN! Loading custom weights from {adapter_dir}...")
+        #     self.model = PeftModel.from_pretrained(base_model, adapter_dir)
+        # else:
+        print("⚠️ Using base model (adapter loading disabled for deployment stability).")
+        self.model = base_model
             
         print("Response Generation Model loaded successfully!\n")
         
