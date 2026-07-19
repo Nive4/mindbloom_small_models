@@ -1,5 +1,16 @@
+---
+title: MindBloom
+emoji: 🌱
+colorFrom: green
+colorTo: blue
+sdk: docker
+app_port: 7860
+short_description: Privacy-First Mental Health AI Chatbot
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
