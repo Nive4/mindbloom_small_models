@@ -3,7 +3,7 @@ import random
 import warnings
 from typing import Optional
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from peft import PeftModel
+# from peft import PeftModel  # Disabled for deployment — adapter loading not used at runtime
 
 warnings.filterwarnings('ignore')
 

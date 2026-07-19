@@ -18,8 +18,10 @@ COPY . .
 # Expose the port Hugging Face Spaces expects
 EXPOSE 7860
 
-# Set environment variable for the port
+# Set environment variables
 ENV PORT=7860
+ENV TRANSFORMERS_CACHE=/tmp/hf_cache
+ENV HF_HOME=/tmp/hf_home
 
 # Run the application
 CMD ["python", "main.py"]

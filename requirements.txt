@@ -1,9 +1,4 @@
 transformers
 torch
-tf-keras
-peft
-trl
-datasets
-accelerate
 fastapi
 uvicorn
