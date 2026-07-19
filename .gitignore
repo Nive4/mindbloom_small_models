@@ -15,6 +15,9 @@ __pycache__/
 # Model outputs (large files)
 model_output/
 
+# Research/documentation images (not needed for app)
+*.png
+
 # OS files
 Thumbs.db
 .DS_Store
